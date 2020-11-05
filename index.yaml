@@ -2,8 +2,24 @@ apiVersion: v1
 entries:
   microservice:
   - apiVersion: v2
+    appVersion: 0.3.2
+    created: "2020-11-05T18:58:43.294067257Z"
+    description: A Helm chart which provide a DRY microservice deployment mechanism
+    digest: 2138cc650baa7b15c9357a6efd6b3f19b87e62e94bf1a5e8a4fb8726c0bd1c02
+    keywords:
+    - microservice
+    - template
+    - DRY
+    - generic
+    maintainers:
+    - name: jzlotek
+    name: microservice
+    urls:
+    - https://jzlotek.github.io/helm-charts/microservice-0.3.2.tgz
+    version: 0.3.2
+  - apiVersion: v2
     appVersion: 0.3.1
-    created: "2020-11-05T18:19:48.165716203Z"
+    created: "2020-11-05T18:58:43.29350395Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: d3c9e3e79888cf32323293525d320473dc1ebc867a17789743b74e492d5bdd36
     keywords:
@@ -19,7 +35,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2020-11-05T18:19:48.165087297Z"
+    created: "2020-11-05T18:58:43.292958944Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 43f5e39224f8d5bba496e5e32097b20df88373cd780f59a5f06f420567485aa5
     keywords:
@@ -35,7 +51,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2020-11-05T18:19:48.164440791Z"
+    created: "2020-11-05T18:58:43.292452138Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: f9725710f7ee5479996945f74f6d151813f8d10e50318007be8fbad74ba3c581
     keywords:
@@ -53,7 +69,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2020-11-05T18:19:48.16655711Z"
+    created: "2020-11-05T18:58:43.294565262Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 4d151337005581c8c999a96fddfa2b087a9f33456a60895c689d33ca7c08c4f5
     keywords:
@@ -69,4 +85,4 @@ entries:
     urls:
     - https://jzlotek.github.io/helm-charts/microservice/microservice-0.2.7.tgz
     version: 0.2.7
-generated: "2020-11-05T18:19:48.163519683Z"
+generated: "2020-11-05T18:58:43.291192323Z"
