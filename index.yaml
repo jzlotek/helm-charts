@@ -2,8 +2,24 @@ apiVersion: v1
 entries:
   microservice:
   - apiVersion: v2
+    appVersion: 0.3.7
+    created: "2021-02-05T00:35:12.55113456Z"
+    description: A Helm chart which provide a DRY microservice deployment mechanism
+    digest: fe8a3eef78ba84bc0787eaff34108cee0eef27977ca45d7721a006a45ce85908
+    keywords:
+    - microservice
+    - template
+    - DRY
+    - generic
+    maintainers:
+    - name: jzlotek
+    name: microservice
+    urls:
+    - https://jzlotek.github.io/helm-charts/microservice-0.3.7.tgz
+    version: 0.3.7
+  - apiVersion: v2
     appVersion: 0.3.6
-    created: "2021-02-02T20:15:28.596364154Z"
+    created: "2021-02-05T00:35:12.550579454Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 028151cfa1e7627aa540dd7e8f95fbef23a4ae4271b46ea3055989f53b91c2c0
     keywords:
@@ -19,7 +35,7 @@ entries:
     version: 0.3.6
   - apiVersion: v2
     appVersion: 0.3.5
-    created: "2021-02-02T20:15:28.595762053Z"
+    created: "2021-02-05T00:35:12.550017249Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 7584e5fd2204a2e6177ff20b184d3b0b0cf175c5efa83ca989a56c27dd616b93
     keywords:
@@ -35,7 +51,7 @@ entries:
     version: 0.3.5
   - apiVersion: v2
     appVersion: 0.3.4
-    created: "2021-02-02T20:15:28.595202852Z"
+    created: "2021-02-05T00:35:12.549447344Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 779c9bf464895ed2cdd31b38f8c680880df149add5f76c36f4f7d1e71309a152
     keywords:
@@ -51,7 +67,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: 0.3.3
-    created: "2021-02-02T20:15:28.594514051Z"
+    created: "2021-02-05T00:35:12.548905439Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 0d87fe8a3177ae7053690b8fc3384f9b017cdcb5f1808c1caa3d1f215715a5fb
     keywords:
@@ -67,7 +83,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: 0.3.2
-    created: "2021-02-02T20:15:28.59374155Z"
+    created: "2021-02-05T00:35:12.548363934Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 2138cc650baa7b15c9357a6efd6b3f19b87e62e94bf1a5e8a4fb8726c0bd1c02
     keywords:
@@ -83,7 +99,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: 0.3.1
-    created: "2021-02-02T20:15:28.593006749Z"
+    created: "2021-02-05T00:35:12.547815929Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: d3c9e3e79888cf32323293525d320473dc1ebc867a17789743b74e492d5bdd36
     keywords:
@@ -99,7 +115,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: 0.3.0
-    created: "2021-02-02T20:15:28.592217148Z"
+    created: "2021-02-05T00:35:12.547255323Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 43f5e39224f8d5bba496e5e32097b20df88373cd780f59a5f06f420567485aa5
     keywords:
@@ -115,7 +131,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.9
-    created: "2021-02-02T20:15:28.591516647Z"
+    created: "2021-02-05T00:35:12.546704418Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: f9725710f7ee5479996945f74f6d151813f8d10e50318007be8fbad74ba3c581
     keywords:
@@ -133,7 +149,7 @@ entries:
     version: 0.2.9
   - apiVersion: v2
     appVersion: 0.2.7
-    created: "2021-02-02T20:15:28.596887155Z"
+    created: "2021-02-05T00:35:12.552158769Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
     digest: 4d151337005581c8c999a96fddfa2b087a9f33456a60895c689d33ca7c08c4f5
     keywords:
@@ -149,4 +165,4 @@ entries:
     urls:
     - https://jzlotek.github.io/helm-charts/microservice/microservice-0.2.7.tgz
     version: 0.2.7
-generated: "2021-02-02T20:15:28.589967444Z"
+generated: "2021-02-05T00:35:12.54587471Z"
