@@ -3,9 +3,9 @@ entries:
   microservice:
   - apiVersion: v2
     appVersion: 0.3.10
-    created: "2021-05-05T14:33:22.978597116Z"
+    created: "2021-05-05T16:08:35.543310143Z"
     description: A Helm chart which provide a DRY microservice deployment mechanism
-    digest: e7d7422f84857eaf1f815109878bf74fca84530f9c7001491ef49089d9ede261
+    digest: 5ed50d01c199d49984e3f5f2e96381a690d857524276c74880f2d27f5429db41
     keywords:
     - microservice
     - template
@@ -213,4 +213,4 @@ entries:
     urls:
     - https://jzlotek.github.io/helm-charts/microservice/microservice-0.2.7.tgz
     version: 0.2.7
-generated: "2021-05-05T14:33:22.977589409Z"
+generated: "2021-05-05T16:08:35.542541238Z"
